@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.c255fcba.chunk.css",
-    "main.js": "/portfolio-react/static/js/main.6da5c60a.chunk.js",
-    "main.js.map": "/portfolio-react/static/js/main.6da5c60a.chunk.js.map",
+    "main.js": "/portfolio-react/static/js/main.eacc47df.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.eacc47df.chunk.js.map",
     "runtime-main.js": "/portfolio-react/static/js/runtime-main.3a2c7109.js",
     "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.3a2c7109.js.map",
     "static/css/2.818011ed.chunk.css": "/portfolio-react/static/css/2.818011ed.chunk.css",
@@ -16,6 +16,7 @@
     "static/js/2.65fed1a8.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.65fed1a8.chunk.js.LICENSE.txt",
     "static/media/MVC_project.d771ac4c.png": "/portfolio-react/static/media/MVC_project.d771ac4c.png",
     "static/media/computer_teacher_resume_2021.07de7c44.pdf": "/portfolio-react/static/media/computer_teacher_resume_2021.07de7c44.pdf",
+    "static/media/crypt_crawler.df3daefb.png": "/portfolio-react/static/media/crypt_crawler.df3daefb.png",
     "static/media/express_projects.1f2a4ab4.png": "/portfolio-react/static/media/express_projects.1f2a4ab4.png",
     "static/media/first_img.103936e4.PNG": "/portfolio-react/static/media/first_img.103936e4.PNG",
     "static/media/password_gen_project.cc2b066c.png": "/portfolio-react/static/media/password_gen_project.cc2b066c.png",
@@ -29,6 +30,6 @@
     "static/css/2.818011ed.chunk.css",
     "static/js/2.65fed1a8.chunk.js",
     "static/css/main.c255fcba.chunk.css",
-    "static/js/main.6da5c60a.chunk.js"
+    "static/js/main.eacc47df.chunk.js"
   ]
 }
